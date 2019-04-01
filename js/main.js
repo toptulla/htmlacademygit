@@ -1,3 +1,3 @@
-function greeting(){
-    console.log("Hello GIT!");
+function greeting(message){
+    console.log(message);
 }
